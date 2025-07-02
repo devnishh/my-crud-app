@@ -1,4 +1,3 @@
-# My CRUD App 
 # My CRUD App
 
 A full-stack CRUD application built with **React (frontend)** and **Spring Boot + MySQL (backend)**. This app supports **authentication, role-based access**, and full CRUD features for managing **Records** and **Categories**.
